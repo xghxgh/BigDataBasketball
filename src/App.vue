@@ -1,11 +1,14 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+<!--    <img src="./assets/logo.png">-->
     <router-view/>
   </div>
 </template>
 
 <script>
+import Index from "./components/Index";
+// import DataV from '@jiaminghi/data-view';
+// Vue.use(DataV)
 export default {
   name: 'App'
 }

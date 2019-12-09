@@ -17,6 +17,7 @@
           <!--页面右侧中上半部分-->
           <dv-border-box-3 class="letf-detail-content">
             <!--页面右侧中上半部分——左侧详细内容-->
+            <CenterCmp/>
           </dv-border-box-3>
           <dv-border-box-2 class="right-detail-content">
             <!--页面右侧中上半部分——右侧详细内容-->

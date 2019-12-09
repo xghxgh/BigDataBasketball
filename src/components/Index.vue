@@ -14,16 +14,17 @@
       <div class="right-mian-content">
         <!--页面右侧主体-->
         <div class="right-top-container">
-          <!--页面左侧中上半部分-->
+          <!--页面右侧中上半部分-->
           <dv-border-box-3 class="letf-detail-content">
-            <!--页面左侧中上半部分——左侧详细内容-->
+            <!--页面右侧中上半部分——左侧详细内容-->
           </dv-border-box-3>
           <dv-border-box-2 class="right-detail-content">
-            <!--页面左侧中上半部分——右侧详细内容-->
+            <!--页面右侧中上半部分——右侧详细内容-->
           </dv-border-box-2>
         </div>
         <dv-border-box-2 class="right-bottom-container">
-          <!--页面左侧中下半部分-->
+          <!--页面右侧中下半部分-->
+          <BottomChart/>
         </dv-border-box-2>
       </div>
     </dv-border-box-1>

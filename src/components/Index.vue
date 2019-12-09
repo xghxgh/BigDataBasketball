@@ -8,7 +8,7 @@
     <dv-border-box-1 class="main-container">
       <dv-border-box-4 :reverse="true" class="left-mian-content">
         <!--页面左侧内容-->
-
+        <Left-Chart />
       </dv-border-box-4>
 
       <div class="right-mian-content">
@@ -90,12 +90,12 @@
 
   .left-mian-content{
     width: 22%;
-    padding: 4px;
+    padding: 5px;
     box-sizing: border-box;
   }
   .right-mian-content{
     width: 78%;
-    padding-left: 1px;
+    padding: 5px;
     box-sizing: border-box;
   }
   .right-top-container{

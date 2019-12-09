@@ -20,6 +20,7 @@
           </dv-border-box-3>
           <dv-border-box-2 class="right-detail-content">
             <!--页面右侧中上半部分——右侧详细内容-->
+            <RightChart/>
           </dv-border-box-2>
         </div>
         <dv-border-box-2 class="right-bottom-container">
